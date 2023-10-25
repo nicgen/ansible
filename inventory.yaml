@@ -1,4 +1,4 @@
 localmachines:
   hosts:
     pi01:
-      ansible_host: 10.1.1.19
+      ansible_host: docker.local
